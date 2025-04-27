@@ -1,4 +1,4 @@
-# Medibuddy: Smart Disease Predictor
+#DOCTOR-D: Smart Disease Predictor
 
 ## Sample images of the web application
 
